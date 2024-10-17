@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TenisVakuum", "TenisVakuum\TenisVakuum.csproj", "{4BA569B5-64F7-41B3-AF8E-999CB74EFD7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BA569B5-64F7-41B3-AF8E-999CB74EFD7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BA569B5-64F7-41B3-AF8E-999CB74EFD7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BA569B5-64F7-41B3-AF8E-999CB74EFD7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BA569B5-64F7-41B3-AF8E-999CB74EFD7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50C5F3E4-584F-4F32-9D41-161DDD262A26}
+	EndGlobalSection
+EndGlobal
